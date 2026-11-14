@@ -1,0 +1,86 @@
+{
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "redirects": [
+    {
+      "source": "/services",
+      "destination": "/commercial",
+      "permanent": true
+    },
+    {
+      "source": "/commerical",
+      "destination": "/commercial",
+      "permanent": true
+    },
+    {
+      "source": "/gallery",
+      "destination": "/",
+      "permanent": false
+    },
+    {
+      "source": "/cart",
+      "destination": "/contact",
+      "permanent": true
+    },
+    {
+      "source": "/blog/commercial-cleaning-cost-massachusetts",
+      "destination": "/blog/commercial-cleaning-cost-tampa",
+      "permanent": true
+    },
+    {
+      "source": "/office-cleaning-tampa",
+      "destination": "/blog/office-cleaning-tampa",
+      "permanent": true
+    },
+    {
+      "source": "/medical-office-cleaning",
+      "destination": "/blog/medical-office-cleaning",
+      "permanent": true
+    },
+    {
+      "source": "/property-management-cleaning",
+      "destination": "/blog/property-management-cleaning",
+      "permanent": true
+    },
+    {
+      "source": "/gym-retail-cleaning",
+      "destination": "/blog/gym-retail-cleaning",
+      "permanent": true
+    },
+    {
+      "source": "/coworking-cleaning",
+      "destination": "/blog/coworking-cleaning",
+      "permanent": true
+    },
+    {
+      "source": "/post-construction-cleaning",
+      "destination": "/blog/post-construction-cleaning",
+      "permanent": true
+    },
+    {
+      "source": "/venue-brewery-church-cleaning",
+      "destination": "/blog/venue-brewery-church-cleaning",
+      "permanent": true
+    },
+    {
+      "source": "/residential",
+      "destination": "/commercial",
+      "permanent": true
+    },
+    {
+      "source": "/airbnb-str",
+      "destination": "/commercial",
+      "permanent": true
+    },
+    {
+      "source": "/residential-funnel",
+      "destination": "/commercial",
+      "permanent": true
+    },
+    {
+      "source": "/str-funnel",
+      "destination": "/commercial",
+      "permanent": true
+    }
+  ]
+}
